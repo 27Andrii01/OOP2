@@ -1,7 +1,5 @@
 package org.example;
 
-import org.example.SearchFilter;
-
 import java.util.ArrayList;
 import java.util.List;
 
